@@ -1,0 +1,42 @@
+Data Science Course 2 - Final Peer Graded Assignment
+
+In this assignment I'll be working on a total of 12 exercises showing that I'm able to navigate Jupyterlite notebook.
+
+Popular programing languages that data scientists use:
+
+Python
+R
+SQL
+Commonly used data science libraries:
+
+Scientific Computing Libraries: Pandas, NumPy
+Visualisatino Libraries: Matplotlib, Seaborn
+Deep Learning Libraries: SciKit-learn, Keras
+Data Science Tools :
+
+Jupyter Notebook
+RStudio
+Apache Spark
+In the following code cells some arithmetic expressions are evaluated. Multiplication, addition and parenthesis.
+
+eval = (3*4)+5
+print(eval)
+print(eval==17)
+17
+True
+x=60
+A given variable (x) is defined by a number of minutes. In the following code cell the amount is converted into hours: Let's take 60 minutes for example:
+
+x/60
+1.0
+60 minutes has been converted into 1 hour.
+
+Objectives: List Popular languages for Data Science
+
+Python
+R
+SQL
+Author's name: Robin W.
+
+​
+
